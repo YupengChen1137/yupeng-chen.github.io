@@ -6,12 +6,12 @@
 
 main:
   - title: "Publications"
+    #url: /publications/
     url: https://scholar.google.com/citations?user=_V9BVQEAAAAJ&hl=en
-    # url: /publications/
     
   - title: "Portfolio"
     url: https://github.com/YupengChen1137
-    # url: /portfolio/
+    #url: /portfolio/
 
   - title: "CV"
     url: /files/YupengChen_CV_share.pdf
