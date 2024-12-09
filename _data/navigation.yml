@@ -6,22 +6,22 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: https://scholar.google.com/citations?user=_V9BVQEAAAAJ&hl=en
     
   - title: "CV"
-    url: /cv/
+    url: /files/yupeng_chen_cv.pdf
+  
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+#  - title: "Guide"
+#    url: /markdown/
