@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a 2nd-year PhD student at Stanford Management Science and Engineering (MS&E), where I'm fortunate to be advised by [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau?tab=bio) and to work closely with [David Scheinker](https://profiles.stanford.edu/david-scheinker?releaseVersion=10.9.0). 
+👨🏻‍💻 I'm a 2nd-year PhD student at Stanford Management Science and Engineering (MS&E), where I'm fortunate to be advised by [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau?tab=bio) and to work closely with [David Scheinker](https://profiles.stanford.edu/david-scheinker?releaseVersion=10.9.0). I'm also a part of the [System Utilization Research For (SURF) Stanford Medicine](https://surf.stanford.edu) group. 
 
 📚 I grew up in Beijing, China. I received my B.S. in Computational Mathematics and B.S. in Cognitive Science at University of California, Los Angeles (UCLA). Previously, I was a data analyst at the Center for Health Policy Research at UCLA. 
 
