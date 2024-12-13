@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Ongoing Works
+Work in progress
 ------
 **Cost-effectiveness of contingency management on methamphetamine use disorder: a model-based analysis**  
 with Gary L. Qian, Richard A. Rawson, Keith N. Humphreys, and Margaret L. Brandeau
