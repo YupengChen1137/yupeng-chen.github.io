@@ -23,6 +23,7 @@ with Alyssa Amick, Tracy Ly, June Li, Douglas K. Owens,  Joshua Salomon, and Chr
 
 Publications
 ------
-**[Changes in behavior and biomarkers during the diagnostic decision period for COVID-19, influenza, and group A streptococcus (GAS): a two-year prospective cohort study in Israel](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00101-7/fulltext)** 
-Shachar Snir, *Yupeng Chen*, Matan Yechezkel, Tal Patalon, Erez Shmueli, Margaret L. Brandeau, Dan Yamin
+**[Changes in behavior and biomarkers during the diagnostic decision period for COVID-19, influenza, and group A streptococcus (GAS): a two-year prospective cohort study in Israel](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00101-7/fulltext)**  
+Shachar Snir, **Yupeng Chen**, Matan Yechezkel, Tal Patalon, Erez Shmueli, Margaret L. Brandeau, Dan Yamin  
+
 *The Lancet Regional Health–Europe* July 2024
