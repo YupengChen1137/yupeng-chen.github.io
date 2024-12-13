@@ -6,8 +6,9 @@
 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=_V9BVQEAAAAJ&hl=en
-    
+    # url: https://scholar.google.com/citations?user=_V9BVQEAAAAJ&hl=en
+    url: /publications/
+
   - title: "CV"
     url: /files/yupeng_chen_cv.pdf
   
