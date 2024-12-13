@@ -13,7 +13,7 @@ redirect_from:
 
 🔬 Research Interests
 ------
-I'm interested in understanding the impact of health policy and improving healthcare delivery quality with computational models. 
+My research focuses on understanding the impact of health policies and enhancing the quality of healthcare delivery through computational modeling. I am particularly interested in leveraging data science, machine learning, and optimization techniques in healthcare settings, both at macroscopic and microscopic levels. Recently, I'm also exploring at the application of causal inference in medical decision-making.
 
 
 🎿 Personal Interests
