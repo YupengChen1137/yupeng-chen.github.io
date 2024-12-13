@@ -18,8 +18,8 @@ redirect_from:
 I'm interested in understanding the impact of health policy and improving healthcare delivery quality with computational models. 
 
 
-![Ski-photo](/images/home-page.jpg){: .align-right width="300px"}  
-
 🎿 Personal Interests
 ------
-I love sports (skiing, hiking, soccer, tennis, long-distance running, and the list goes on) and exploring nature!
+I love sports (skiing, hiking, soccer, tennis, long-distance running, and the list goes on), and I love travelling and exploring nature!  
+
+![Ski-photo](/images/home-page.jpg){: .align-right width="300px"}  
