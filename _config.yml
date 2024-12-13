@@ -21,7 +21,7 @@ repository               : "yupeng-l-chen/yupeng-l-chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpg"
   name             : "Yupeng Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Management Science & Engineering"
