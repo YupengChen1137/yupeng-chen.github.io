@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yupeng's Homepage"
+title                    : "Yupeng Chen"
 title_separator          : "-"
 name                     : &name "Yupeng Chen"
 description              : &description "personal description"
