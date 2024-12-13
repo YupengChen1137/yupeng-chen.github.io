@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ski-photo](/images/home-page.jpg){: .align-right width="300px"} *Caption describing the ski photo.*
+![Ski-photo](/images/home-page.jpg){: .align-right width="300px"} 
 👨🏻‍💻 I'm a 2nd-year PhD student at Stanford Management Science and Engineering (MS&E), where I'm fortunate to be advised by [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau?tab=bio) and to work closely with [David Scheinker](https://profiles.stanford.edu/david-scheinker?releaseVersion=10.9.0). 
 
 🔬 My research interests are in understanding the impact of health policy and improving healthcare delivery quality with computational models. 
